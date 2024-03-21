@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @SarntRoos
 - 👀 I’m interested in Competitive First Person shooters, Game Development, Map Design, ethical hacking, and I like to exercise.
-- 🌱 I’m currently entering into a program to become a Full Stack Software Developer.
-- 💞️ I’m looking to collaborate on Game Development, Esports, Web Development, and Ethical Hacking.
+- 🌱 I’m currently studying to become a well diversed Software Developer.
+- 💞️ I’m looking to collaborate on Game Development, Esports, Software Development, and Ethical Hacking.
 - 📫 How to reach me - Email sarntroos@gmail.com
-- Future plans - I will create my own Game dev studio and create the best First Person Shooting games revovled around competition and community. 
+- Future plans - I will create my own Cybersecurity Software for the gaming industry and change the experience First Person Shooting games are experienced.  
 
 <!---
 SarntRoos/SarntRoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
