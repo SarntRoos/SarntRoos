@@ -1,3 +1,6 @@
+https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif?raw=true
+
+
 - 👋 Hi, I’m @SarntRoos
 - 👀 I’m interested in Competitive First Person shooters, Game Development, Map Design, ethical hacking, and I like to exercise.
 - 🌱 I’m currently studying to become a well diversed Software Developer revovling my work around cybersecurity and gaming.
