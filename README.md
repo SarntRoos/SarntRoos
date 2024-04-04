@@ -1,5 +1,5 @@
 <table>
-  <tr>
+  <tr style="padding: 10px;">
     <!-- Left ASCII Art -->
    <td style="padding: 10px;">
 <pre>
