@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- Left ASCII Art -->
-    <td>
+   <td style="padding: 10px;">
 <pre>
   _________                      __  
  /   _____/____  _______  ____ _/  |_ 
@@ -10,13 +10,13 @@
 /_______  /____  /|__|  |___|  /|__|  
         \/     \/            \/      
 </pre>
-    </td>
+    <td style="padding: 10px;">
     <!-- Centered Image -->
     <td>
       <img src="https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif" alt="Skull GIF"/>
     </td>
     <!-- Right ASCII Art -->
-    <td>
+    <td style="padding: 10px;">
 <pre>
 __________                      
 \______   \ ____   ____   ______
@@ -25,7 +25,7 @@ __________                      
  |____|_  /\____/ \____//____  \
         \/                   \/ 
 </pre>
-    </td>
+    <td style="padding: 10px;">
   </tr>
 </table>
 
