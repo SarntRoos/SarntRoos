@@ -28,3 +28,11 @@ __________                      
     </td>
   </tr>
 </table>
+
+👋 Hi, I’m @SarntRoos
+👀 I’m interested in Competitive First Person shooters, Game Development, Map Design, ethical hacking, and I like to exercise.
+🌱 I’m currently studying to become a well diversed Software Developer revolving my work around cybersecurity and gaming.
+💞️ I’m looking to collaborate on Game Development, Esports, Software Development, and Ethical Hacking.
+📫 How to reach me - Email johnnathan.royster@snhu.edu
+Future plans - I will create my own Cybersecurity Software for the gaming industry and change how First Person Shooting games are experienced.
+
