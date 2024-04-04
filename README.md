@@ -1,4 +1,6 @@
-![Skull GIF](https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif?raw=true)
+<div align="center">
+  <img src="https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif" alt="Skull GIF"/>
+</div>
 
 
 - 👋 Hi, I’m @SarntRoos
