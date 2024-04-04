@@ -12,7 +12,7 @@
 </pre>
     <td style="padding: 10px;">
     <!-- Centered Image -->
-    <td>
+    <td style="padding: 10px;">
       <img src="https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif" alt="Skull GIF"/>
     </td>
     <!-- Right ASCII Art -->
