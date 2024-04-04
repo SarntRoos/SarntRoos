@@ -14,7 +14,7 @@
     <!-- Centered Image -->
     <td style="padding: 10px;">
       <img src="https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif" alt="Skull GIF"/>
-    </td>
+   <td style="padding: 10px;">
     <!-- Right ASCII Art -->
     <td style="padding: 10px;">
 <pre>
