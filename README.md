@@ -1,4 +1,4 @@
-![SkullGIF]https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif?raw=true
+![Skull GIF](https://github.com/SarntRoos/skull-gif/raw/main/SkullGIF.gif?raw=true)
 
 
 - 👋 Hi, I’m @SarntRoos
