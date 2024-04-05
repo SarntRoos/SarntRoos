@@ -34,6 +34,9 @@ __________                      
 # 💫 About Me:
 -👋 Hi, I’m @SarntRoos<br><br>👀 I’m interested in Competitive First Person shooters, Game Development, Map Design, ethical hacking, and I like to exercise.<br>🌱 I’m currently studying to become a well diversed Software Developer revolving my work around cybersecurity and gaming.<br>💞️ I’m looking to collaborate on Game Development, Esports, Software Development, and Ethical Hacking.<br>📫 How to reach me - Email johnnathan.royster@snhu.edu<br>Future plans - I will create my own Cybersecurity Software for the gaming industry and change how First Person Shooting games are experienced.
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@SarntRoos/30-nites-of-code)  
+  ![@SarntRoos #30NitesOfCode](https://www.codedex.io/api/petStatus?user=SarntRoos)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sarnt_roos/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/sarnt_roos) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@SarntRoos) 
